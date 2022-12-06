@@ -1,4 +1,4 @@
-**# 42-Curses-Get-next-line**
+# 42-Curses-Get-next-line
 
 ![SS](SS/gnl.png)
 
