@@ -1,4 +1,4 @@
-# 42-Curses-Get-next-line
+**# 42-Curses-Get-next-line**
 
 ![SS](SS/gnl.png)
 
@@ -12,4 +12,4 @@ reading from the standard input.
 except if the end of file was reached and does not end with a \n character.  
 • Your header file get_next_line.h must at least contain the prototype of the  
 get_next_line() function.  
-• Add all the helper functions you need in the get_next_line_utils.c file.  
+• Add all the helper functions you need in the get_next_line_utils.c file.
