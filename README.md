@@ -13,7 +13,7 @@ except if the end of file was reached and does not end with a \n character.
 • Your header file get_next_line.h must at least contain the prototype of the  
 get_next_line() function.  
 • Add all the helper functions you need in the get_next_line_utils.c file.**
-<Forbidden
-• You are not allowed to use your libft in this project.
-• lseek() is forbidden.
-• Global variables are forbidden.
+>Forbidden  
+• You are not allowed to use your libft in this project.  
+• lseek() is forbidden.  
+• Global variables are forbidden.  
